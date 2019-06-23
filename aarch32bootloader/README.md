@@ -4,7 +4,9 @@ It consumes symbols from UART in format [CMD] [ADDR] [DATA_LEN] [DATA]. Bootload
 There is no autojump routine after flash.
 
 ### CMD format
-[CMD] [ADDR] [DATA_LEN] [DATA]
+```[CMD] [ADDR] [DATA_LEN] [DATA]```
+
+
 CMD: R - read;
      W - write;
      S - set pointer to memory
