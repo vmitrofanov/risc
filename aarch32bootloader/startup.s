@@ -1,5 +1,4 @@
 @@@
-@@@ SUBJECT: iHEX loader to board X. This loader allow to load Intel HEX files into CRAM or embedded flash
 @@@ AUTHOR: vmitrofanov
 @@@
     .arm
